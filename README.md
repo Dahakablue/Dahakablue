@@ -40,7 +40,7 @@ script noob learning everyday... obsessed with cybersecurity
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Dahakablue/Dahakablue/assets/72954658/86115d1e-ff2f-4820-a940-580387bed0f3" alt="HTML" width="60" hight="20">
+<img src="https://github.com/Dahakablue/Dahakablue/assets/icons/72954658/86115d1e-ff2f-4820-a940-580387bed0f3" alt="HTML" width="50" hight="15">
 </p>
 </br>
 </br>
