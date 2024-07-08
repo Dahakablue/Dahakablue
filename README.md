@@ -1,9 +1,5 @@
 # hello world 👋
 
-<div align="center">
-<img hight="200" width="600" alt="GIF" align="center" src="![image](https://github.com/Dahakablue/Dahakablue/assets/72954658/bef5ce2d-c3bd-4b3a-8fad-d667538dd411)
-">
-</div>
 
 </br>
 </br>
